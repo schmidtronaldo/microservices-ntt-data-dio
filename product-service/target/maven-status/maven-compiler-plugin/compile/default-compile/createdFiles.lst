@@ -1,0 +1,5 @@
+com/example/product/ProductServiceApplication.class
+com/example/product/web/ProductController.class
+com/example/product/repo/ProductRepository.class
+com/example/product/domain/Product.class
+com/example/product/web/ProductDTO.class
